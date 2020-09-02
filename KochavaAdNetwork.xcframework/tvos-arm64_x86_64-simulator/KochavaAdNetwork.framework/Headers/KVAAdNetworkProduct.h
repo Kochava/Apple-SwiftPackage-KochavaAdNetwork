@@ -33,7 +33,7 @@
 /*!
  @class KVAAdNetworkProduct
  
- @brief A class which defines a location product.
+ @brief A class which defines an adnetwork product.
  
  @discussion A product in this context generally refers to the result of a build.
  
@@ -41,7 +41,7 @@
  
  @author John Bushnell
  
- @copyright 2017 - 2020 Kochava, Inc.
+ @copyright 2020 Kochava, Inc.
  */
 @interface KVAAdNetworkProduct : KVAProduct <KVASharedPropertyProvider>
 
