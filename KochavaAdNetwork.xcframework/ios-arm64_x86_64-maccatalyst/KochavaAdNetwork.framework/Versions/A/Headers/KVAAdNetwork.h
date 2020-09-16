@@ -33,9 +33,9 @@
 /*!
  @class KVAAdNetwork
  
- @brief A controller for working with location services.
+ @brief A controller for working with advertising networks.
  
- @discussion This class observes for location changes and reports back.
+ @discussion This class provides a high-level interface for SKAdNetwork.
  
  @author John Bushnell
  

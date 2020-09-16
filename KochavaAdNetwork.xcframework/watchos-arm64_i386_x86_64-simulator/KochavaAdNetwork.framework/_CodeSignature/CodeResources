@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/KVAAdNetwork.h</key>
 		<data>
-		/PlUTXk4PixKrVVsc6mxc0iABiQ=
+		+A+H96RlLAv/VvlQ7cTlq8P62Zk=
 		</data>
 		<key>Headers/KVAAdNetworkProduct.h</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Apr0yoLLK5JbNRO/CgxMBVz6gxM=
+		2utH9FrlmiKPR3OxFdLrloHN34o=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -31,11 +31,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/PlUTXk4PixKrVVsc6mxc0iABiQ=
+			+A+H96RlLAv/VvlQ7cTlq8P62Zk=
 			</data>
 			<key>hash2</key>
 			<data>
-			1vSR7CFTfl8ZAuVAYI7p3P8CZz8GbGzrjPPT+hTgB1E=
+			yL2vbPKyNVtBvsU5Y5FnabVdNkYo7g1vREPf1j9xYHQ=
 			</data>
 		</dict>
 		<key>Headers/KVAAdNetworkProduct.h</key>

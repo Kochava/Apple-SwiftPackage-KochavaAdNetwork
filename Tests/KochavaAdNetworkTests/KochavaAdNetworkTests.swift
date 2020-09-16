@@ -14,6 +14,8 @@ final class KochavaAdNetworkTests: XCTestCase
     {
         KVALog.shared.level = .trace
         
+        print("core=\(String(describing: KVACoreProduct.shared.kva_asForContextObject(withContext: .log) as? [AnyHashable: Any]))")
+        
         KVAAdNetworkProduct.shared.register()
     }
 
