@@ -4,35 +4,15 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/KVAAdNetwork.h</key>
+		<key>Resources/Info.plist</key>
 		<data>
-		+A+H96RlLAv/VvlQ7cTlq8P62Zk=
-		</data>
-		<key>Headers/KVAAdNetworkProduct.h</key>
-		<data>
-		fXwMNVxOLd3x+WJVoVeBD9zjsVc=
-		</data>
-		<key>Headers/KochavaAdNetwork.h</key>
-		<data>
-		4qRrMdaOxBYEPBn2ZUF3wRIY29c=
-		</data>
-		<key>Info.plist</key>
-		<data>
-		OCMyH5qcJXY5Rb4kNFo80hFeiNg=
-		</data>
-		<key>Modules/module.modulemap</key>
-		<data>
-		5KQNF3MJ9/r4+CtDHMNVnUIzPp0=
+		L5/UsmE3Ixnpy6YMDzVSMD2SLK4=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
 		<key>Headers/KVAAdNetwork.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			+A+H96RlLAv/VvlQ7cTlq8P62Zk=
-			</data>
 			<key>hash2</key>
 			<data>
 			yL2vbPKyNVtBvsU5Y5FnabVdNkYo7g1vREPf1j9xYHQ=
@@ -40,10 +20,6 @@
 		</dict>
 		<key>Headers/KVAAdNetworkProduct.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			fXwMNVxOLd3x+WJVoVeBD9zjsVc=
-			</data>
 			<key>hash2</key>
 			<data>
 			jitdvhgG1bgUW5LFW+EYMLQ37RA+P39KCs8bwPlhz78=
@@ -51,10 +27,6 @@
 		</dict>
 		<key>Headers/KochavaAdNetwork.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			4qRrMdaOxBYEPBn2ZUF3wRIY29c=
-			</data>
 			<key>hash2</key>
 			<data>
 			Q0PVsFJBDCRcm/uSDXMugtpFFS87vTnmltMtsG3c51c=
@@ -62,35 +34,38 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5KQNF3MJ9/r4+CtDHMNVnUIzPp0=
-			</data>
 			<key>hash2</key>
 			<data>
 			2mrECLWmBtVrZYiurkT2E/j6M8bpfH2+CPoLoE3F5fk=
 			</data>
 		</dict>
+		<key>Resources/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xCS3d4w7UwKrnkPYmJNUWhuLLJNkOi1eMzjiLGQjJIQ=
+			</data>
+		</dict>
 	</dict>
 	<key>rules</key>
 	<dict>
-		<key>^.*</key>
+		<key>^Resources/</key>
 		<true/>
-		<key>^.*\.lproj/</key>
+		<key>^Resources/.*\.lproj/</key>
 		<dict>
 			<key>optional</key>
 			<true/>
 			<key>weight</key>
 			<real>1000</real>
 		</dict>
-		<key>^.*\.lproj/locversion.plist$</key>
+		<key>^Resources/.*\.lproj/locversion.plist$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
 			<real>1100</real>
 		</dict>
-		<key>^Base\.lproj/</key>
+		<key>^Resources/Base\.lproj/</key>
 		<dict>
 			<key>weight</key>
 			<real>1010</real>
@@ -112,27 +87,15 @@
 			<key>weight</key>
 			<real>2000</real>
 		</dict>
+		<key>^(Frameworks|SharedFrameworks|PlugIns|Plug-ins|XPCServices|Helpers|MacOS|Library/(Automator|Spotlight|LoginItems))/</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
 		<key>^.*</key>
 		<true/>
-		<key>^.*\.lproj/</key>
-		<dict>
-			<key>optional</key>
-			<true/>
-			<key>weight</key>
-			<real>1000</real>
-		</dict>
-		<key>^.*\.lproj/locversion.plist$</key>
-		<dict>
-			<key>omit</key>
-			<true/>
-			<key>weight</key>
-			<real>1100</real>
-		</dict>
-		<key>^Base\.lproj/</key>
-		<dict>
-			<key>weight</key>
-			<real>1010</real>
-		</dict>
 		<key>^Info\.plist$</key>
 		<dict>
 			<key>omit</key>
@@ -146,6 +109,37 @@
 			<true/>
 			<key>weight</key>
 			<real>20</real>
+		</dict>
+		<key>^Resources/</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^Resources/.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^Resources/.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^Resources/Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
+		</dict>
+		<key>^[^/]+$</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
 		</dict>
 		<key>^embedded\.provisionprofile$</key>
 		<dict>
