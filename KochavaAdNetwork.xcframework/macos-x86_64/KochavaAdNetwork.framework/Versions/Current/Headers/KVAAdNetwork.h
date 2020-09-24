@@ -39,7 +39,7 @@
  
  @author John Bushnell
  
- @copyright 2017 - 2020 Kochava, Inc.
+ @copyright 2020 Kochava, Inc.
  */
 @interface KVAAdNetwork : NSObject <KVAAsForContextObjectProtocol, KVAConfigureWithObjectProtocol, KVAFromObjectProtocol>
 
