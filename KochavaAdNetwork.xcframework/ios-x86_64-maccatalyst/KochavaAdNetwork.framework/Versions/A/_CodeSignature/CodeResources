@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		PVxcLtiFNlekXwTEv/gndzQ3egI=
+		QQH7zYI6Wa482mpGyKSFR1ADum8=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -15,21 +15,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UIZKEk2D7slzV9H3Y/IuqLZMg1n6iFdJ8pLhbLdMCcE=
+			cAN4PxCCzb1CvlUdPqYX+U9omj+QNRB9a+tOR8umy04=
 			</data>
 		</dict>
 		<key>Headers/KVAAdNetworkProduct.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jitdvhgG1bgUW5LFW+EYMLQ37RA+P39KCs8bwPlhz78=
+			0fyQGNsnMfHmj67NhHpOvRUi4AwlU/NNKhwjk2jX+Lg=
 			</data>
 		</dict>
 		<key>Headers/KochavaAdNetwork.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q0PVsFJBDCRcm/uSDXMugtpFFS87vTnmltMtsG3c51c=
+			+KvHZ36ZNQdqYUYueJuclyeTWD0VIn06s2BLpSs+eEA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -43,7 +43,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aE/UUZ00GYPr1Tf/XbXZQLktbe/wey2e8uKdYq49vrQ=
+			Vto8dnFp4q9g+oH3iF0ouV+TuCxTww4MFeYPJZOm6CQ=
 			</data>
 		</dict>
 	</dict>

@@ -6,19 +6,19 @@
 	<dict>
 		<key>Headers/KVAAdNetwork.h</key>
 		<data>
-		T2texfN7SX5PL+Qiq5JMXKbv4es=
+		XS/d/oK9ivSGAESFqtkCLwmgLxU=
 		</data>
 		<key>Headers/KVAAdNetworkProduct.h</key>
 		<data>
-		fXwMNVxOLd3x+WJVoVeBD9zjsVc=
+		5Y65XLSUIBOtmNjwN3P8gA8xKp0=
 		</data>
 		<key>Headers/KochavaAdNetwork.h</key>
 		<data>
-		4qRrMdaOxBYEPBn2ZUF3wRIY29c=
+		LgWmK8d9eH9HNuLFn8f5C/2lwnw=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		FDalYQJeZ9G19I3HYDkF98UG8OQ=
+		0ZYHX65nWFzEfp1gMCPkQmTWzQ4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -31,33 +31,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			T2texfN7SX5PL+Qiq5JMXKbv4es=
+			XS/d/oK9ivSGAESFqtkCLwmgLxU=
 			</data>
 			<key>hash2</key>
 			<data>
-			UIZKEk2D7slzV9H3Y/IuqLZMg1n6iFdJ8pLhbLdMCcE=
+			cAN4PxCCzb1CvlUdPqYX+U9omj+QNRB9a+tOR8umy04=
 			</data>
 		</dict>
 		<key>Headers/KVAAdNetworkProduct.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			fXwMNVxOLd3x+WJVoVeBD9zjsVc=
+			5Y65XLSUIBOtmNjwN3P8gA8xKp0=
 			</data>
 			<key>hash2</key>
 			<data>
-			jitdvhgG1bgUW5LFW+EYMLQ37RA+P39KCs8bwPlhz78=
+			0fyQGNsnMfHmj67NhHpOvRUi4AwlU/NNKhwjk2jX+Lg=
 			</data>
 		</dict>
 		<key>Headers/KochavaAdNetwork.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4qRrMdaOxBYEPBn2ZUF3wRIY29c=
+			LgWmK8d9eH9HNuLFn8f5C/2lwnw=
 			</data>
 			<key>hash2</key>
 			<data>
-			Q0PVsFJBDCRcm/uSDXMugtpFFS87vTnmltMtsG3c51c=
+			+KvHZ36ZNQdqYUYueJuclyeTWD0VIn06s2BLpSs+eEA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
