@@ -23,6 +23,9 @@
 
 #import <KochavaAdNetwork/KVAAdNetworkProduct.h>
 #import <KochavaAdNetwork/KVAAdNetwork.h>
+#import <KochavaAdNetwork/KVAAdNetworkConversion.h>
+#import <KochavaAdNetwork/KVAAdNetworkConversionResult.h>
+#import <KochavaAdNetwork/KVAAdNetworkProtocol.h>
 
 
 

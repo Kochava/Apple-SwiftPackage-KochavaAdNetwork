@@ -6,19 +6,31 @@
 	<dict>
 		<key>Headers/KVAAdNetwork.h</key>
 		<data>
-		XS/d/oK9ivSGAESFqtkCLwmgLxU=
+		Yc6KZT0kTybXT6cz3ryKDmw95FI=
+		</data>
+		<key>Headers/KVAAdNetworkConversion.h</key>
+		<data>
+		P+6re39FR0YSJoO2JKYTggT3SVk=
+		</data>
+		<key>Headers/KVAAdNetworkConversionResult.h</key>
+		<data>
+		jROLtRT8dROHykHhrIbu8KMyMdA=
 		</data>
 		<key>Headers/KVAAdNetworkProduct.h</key>
 		<data>
 		5Y65XLSUIBOtmNjwN3P8gA8xKp0=
 		</data>
+		<key>Headers/KVAAdNetworkProtocol.h</key>
+		<data>
+		VJ3JIFmeoqG5ot6DXGUtHUsaRew=
+		</data>
 		<key>Headers/KochavaAdNetwork.h</key>
 		<data>
-		LgWmK8d9eH9HNuLFn8f5C/2lwnw=
+		suqFB1Uwqgafoe2dxGeMNodhNfM=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ZPBUYUwUIeeP3THnKcA4wFBr6NQ=
+		lh6gqlZs58jD5MS2J2X7tNP/H7s=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -31,11 +43,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			XS/d/oK9ivSGAESFqtkCLwmgLxU=
+			Yc6KZT0kTybXT6cz3ryKDmw95FI=
 			</data>
 			<key>hash2</key>
 			<data>
-			cAN4PxCCzb1CvlUdPqYX+U9omj+QNRB9a+tOR8umy04=
+			PxhGQiSaLCcjJnzpQM5QyJ1UlBdEtAokqhCNPRP+KuY=
+			</data>
+		</dict>
+		<key>Headers/KVAAdNetworkConversion.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			P+6re39FR0YSJoO2JKYTggT3SVk=
+			</data>
+			<key>hash2</key>
+			<data>
+			3Q2wjdsqC+IVYMcbHVYVk855PP0ebNoYfOU38I6OC28=
+			</data>
+		</dict>
+		<key>Headers/KVAAdNetworkConversionResult.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jROLtRT8dROHykHhrIbu8KMyMdA=
+			</data>
+			<key>hash2</key>
+			<data>
+			YcQEREsu/Tc+AWjwzMbYMDQu2XDe4NXLN/KcsRGLhFU=
 			</data>
 		</dict>
 		<key>Headers/KVAAdNetworkProduct.h</key>
@@ -49,15 +83,26 @@
 			0fyQGNsnMfHmj67NhHpOvRUi4AwlU/NNKhwjk2jX+Lg=
 			</data>
 		</dict>
+		<key>Headers/KVAAdNetworkProtocol.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VJ3JIFmeoqG5ot6DXGUtHUsaRew=
+			</data>
+			<key>hash2</key>
+			<data>
+			rH00fpEgm3Bunbm0Usa5uVLJfzXvIIfWVX6D9ijzZ0E=
+			</data>
+		</dict>
 		<key>Headers/KochavaAdNetwork.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			LgWmK8d9eH9HNuLFn8f5C/2lwnw=
+			suqFB1Uwqgafoe2dxGeMNodhNfM=
 			</data>
 			<key>hash2</key>
 			<data>
-			+KvHZ36ZNQdqYUYueJuclyeTWD0VIn06s2BLpSs+eEA=
+			6u0JOSLBAG1BJ1euJYnzP52kWnr5z5IIeahyhxIo6DA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

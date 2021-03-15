@@ -17,13 +17,7 @@
 
 
 
-#ifdef KOCHAVA_FRAMEWORK
-#import <KochavaCore/KochavaCore.h>
-#else
-#import "KVAAsForContextObjectProtocol.h"
-#import "KVAConfigureWithObjectProtocol.h"
-#import "KVAFromObjectProtocol.h"
-#endif
+#import "KVAAdNetworkProtocol.h"
 
 
 
@@ -42,7 +36,7 @@
  
  @copyright 2020 - 2021 Kochava, Inc.
  */
-@interface KVAAdNetwork : NSObject <KVAAsForContextObjectProtocol, KVAConfigureWithObjectProtocol, KVAFromObjectProtocol>
+@interface KVAAdNetwork : NSObject <KVAAdNetworkProtocol>
 
 
 
