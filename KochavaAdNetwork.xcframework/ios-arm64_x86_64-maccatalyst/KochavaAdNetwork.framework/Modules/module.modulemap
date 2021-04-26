@@ -1,6 +1,0 @@
-framework module KochavaAdNetwork {
-  umbrella header "KochavaAdNetwork.h"
-
-  export *
-  module * { export * }
-}
