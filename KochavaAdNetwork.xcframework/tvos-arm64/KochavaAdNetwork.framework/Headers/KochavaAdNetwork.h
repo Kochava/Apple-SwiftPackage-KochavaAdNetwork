@@ -13,14 +13,25 @@
 
 
 
+#pragma mark - DEFINE
+
+
+
+#define KOCHAVA_FRAMEWORK
+
+
+
 #pragma mark - IMPORT
 
 
 
+#pragma mark System
 #import <Foundation/Foundation.h>
 
+#pragma mark KochavaCore
 #import <KochavaCore/KochavaCore.h>
 
+#pragma mark KochavaAdNetwork
 #import <KochavaAdNetwork/KVAAdNetworkProduct.h>
 #import <KochavaAdNetwork/KVAAdNetwork.h>
 #import <KochavaAdNetwork/KVAAdNetworkConversion.h>

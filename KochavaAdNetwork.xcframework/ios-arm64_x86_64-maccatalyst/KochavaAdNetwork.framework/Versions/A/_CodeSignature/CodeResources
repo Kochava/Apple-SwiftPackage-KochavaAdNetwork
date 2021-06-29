@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		kKHEZBns1A5ePyVWmPRW12CxeHk=
+		xl/1bz8AvVVwPB2JytBlIeKZuVQ=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -15,42 +15,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PxhGQiSaLCcjJnzpQM5QyJ1UlBdEtAokqhCNPRP+KuY=
+			ULmvZ8RgiFyT0W4ypoqHcU/hOgB7hk0L4fT6tb1puxc=
 			</data>
 		</dict>
 		<key>Headers/KVAAdNetworkConversion.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3Q2wjdsqC+IVYMcbHVYVk855PP0ebNoYfOU38I6OC28=
+			od9lNMi1OjKiFC+uygjt+yRAE9HOLrLr6DDjOTrSy4Q=
 			</data>
 		</dict>
 		<key>Headers/KVAAdNetworkConversionResult.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YcQEREsu/Tc+AWjwzMbYMDQu2XDe4NXLN/KcsRGLhFU=
+			4BMAVUrw/WpoQWucwYvgTKgPxzLpGBlTqer7a/7VN9U=
 			</data>
 		</dict>
 		<key>Headers/KVAAdNetworkProduct.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0fyQGNsnMfHmj67NhHpOvRUi4AwlU/NNKhwjk2jX+Lg=
+			denWaCBU3eylkioXQhlcy2DnGg0wzUdGJJDSNI91q+w=
 			</data>
 		</dict>
 		<key>Headers/KVAAdNetworkProtocol.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rH00fpEgm3Bunbm0Usa5uVLJfzXvIIfWVX6D9ijzZ0E=
+			pZpUfxDOaUjzOKCFVNmBelTH2aqmFZNXAoqBL6bWtrI=
 			</data>
 		</dict>
 		<key>Headers/KochavaAdNetwork.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6u0JOSLBAG1BJ1euJYnzP52kWnr5z5IIeahyhxIo6DA=
+			vH/SSGJXjXCLUNNIrL3+ni+IA2uNDlY4HG18fWIxfzQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -64,7 +64,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ej4S+q6JTH6JVS/BFDPLg6yKF4Rea0fu7MJalfL8iG4=
+			zPS442MDMjT2lMpOWvLFwwiNo0mc3g5L25w9Lh8vDQU=
 			</data>
 		</dict>
 	</dict>
