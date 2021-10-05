@@ -48,7 +48,10 @@
 
  @discussion Your code should assume that if some action needs to be performed on the main queue that it should first dispatch asynchronously to it.
  */
-typedef void (^ KVAAdNetworkDidRegisterAppForAttributionBlock) (KVAAdNetwork * _Nonnull adNetwork);
+typedef void (^ KVAAdNetworkDidRegisterAppForAttributionBlock)
+(
+    KVAAdNetwork * _Nonnull adNetwork
+);
 
 
 
