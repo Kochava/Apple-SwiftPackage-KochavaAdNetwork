@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		JfwNYlvAc3Ov1Ljy8DAZyv0epO0=
+		Jkwj+egqZgAiU7l/Pwh86EMI8Ic=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -15,7 +15,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zqqVu+Dcpyueq2Tm4377FIpVhJOn6M/53Y/QeGfawBM=
+			WJ820hzmbljV494DL6Lb031SgMbzCPSYmlkKos7FRtY=
 			</data>
 		</dict>
 		<key>Headers/KochavaAdNetwork.h</key>
@@ -36,14 +36,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3agjabmdaodq15sibXXXd+r10r6bR+oL2optFismZSg=
+			bYlHNC3jDEVE9elxsnlwzkT4P8h37xy8SzEmAk8pdhI=
 			</data>
 		</dict>
 		<key>Modules/KochavaAdNetwork.swiftmodule/arm64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fzVphPuTEh2DaY5lCgolBCFOsbvCxCS6mhhVWoOfgsM=
+			MKbwSZ7T8Ez5abzd0uNfBwX0cfA1Pj2YCTHOtOu37QE=
 			</data>
 		</dict>
 		<key>Modules/KochavaAdNetwork.swiftmodule/x86_64-apple-macos.swiftdoc</key>
@@ -57,14 +57,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ksYQ94hWIeaZ++wh94O96Z/oMZcqs//IJ9AO5vf3vbU=
+			IVjaouYS71SDEKFaX4IuD1B5WPiLqZ6WkfW++He3qGY=
 			</data>
 		</dict>
 		<key>Modules/KochavaAdNetwork.swiftmodule/x86_64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			c4rm1GxetduFxVnSFZE4cW5pY10lUtJiYJuKG05vTbY=
+			qAQixDVD+YdJd38h9HFzjbeCbvdeilK9IkJaQdFjulY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -78,7 +78,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FoqxWoB7JfRbc6pLizMxyCxicfyYj3idZa+Ji+E7z4E=
+			JSjlaY3ssPhY1jFdVL+eBBwEtYasukZiPWdy86Vsd9Y=
 			</data>
 		</dict>
 	</dict>

@@ -197,7 +197,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #if __has_warning("-Watimport-in-framework-header")
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
-@import KochavaCore;
 @import ObjectiveC;
 #endif
 
@@ -223,12 +222,10 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 /// note:
 /// This is currently overridden to be a subclass of NSObject rather than KVAProduct so that it can be represented in Objective-C.  If you use KVAProduct it will still build, but the automatic module registration will fail to locate the class.  You can see early evidence of the problem if you also make the shared property be of the class type, where the compiler will say that it cannot use @objc because it cannot be expressed in Objective-C.  This is apparently a problem that Swift has providing Objective-C compatibility to Swift classes which subclass other Swift classes across modules.  For example, KVACoreProduct does not have this problem, presumably because it’s in the same module as KVAProduct.  In order to convert this class to subclass KVAProduct, or to subsequently allow shared to be of the class’ type, a means of registering/loading the class as a Swift-only class would be required.  More importantly, however, we’d need to give up public Objective-C support.  Since that doesn’t seem possible, the only alternative would be that Apple fixes this issue and provides the necessary support, assuming that’s possible.
 SWIFT_CLASS_NAMED("KVAAdNetworkProduct")
-@interface KVAAdNetworkProduct : NSObject <KVASharedPropertyProvider>
+@interface KVAAdNetworkProduct : NSObject
 /// The singleton shared instance.
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) KVAProduct * _Nonnull shared;)
 + (KVAProduct * _Nonnull)shared SWIFT_WARN_UNUSED_RESULT;
-SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) id _Nonnull sharedInstance;)
-+ (id _Nonnull)sharedInstance SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
@@ -443,7 +440,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #if __has_warning("-Watimport-in-framework-header")
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
-@import KochavaCore;
 @import ObjectiveC;
 #endif
 
@@ -469,12 +465,10 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 /// note:
 /// This is currently overridden to be a subclass of NSObject rather than KVAProduct so that it can be represented in Objective-C.  If you use KVAProduct it will still build, but the automatic module registration will fail to locate the class.  You can see early evidence of the problem if you also make the shared property be of the class type, where the compiler will say that it cannot use @objc because it cannot be expressed in Objective-C.  This is apparently a problem that Swift has providing Objective-C compatibility to Swift classes which subclass other Swift classes across modules.  For example, KVACoreProduct does not have this problem, presumably because it’s in the same module as KVAProduct.  In order to convert this class to subclass KVAProduct, or to subsequently allow shared to be of the class’ type, a means of registering/loading the class as a Swift-only class would be required.  More importantly, however, we’d need to give up public Objective-C support.  Since that doesn’t seem possible, the only alternative would be that Apple fixes this issue and provides the necessary support, assuming that’s possible.
 SWIFT_CLASS_NAMED("KVAAdNetworkProduct")
-@interface KVAAdNetworkProduct : NSObject <KVASharedPropertyProvider>
+@interface KVAAdNetworkProduct : NSObject
 /// The singleton shared instance.
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) KVAProduct * _Nonnull shared;)
 + (KVAProduct * _Nonnull)shared SWIFT_WARN_UNUSED_RESULT;
-SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) id _Nonnull sharedInstance;)
-+ (id _Nonnull)sharedInstance SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 

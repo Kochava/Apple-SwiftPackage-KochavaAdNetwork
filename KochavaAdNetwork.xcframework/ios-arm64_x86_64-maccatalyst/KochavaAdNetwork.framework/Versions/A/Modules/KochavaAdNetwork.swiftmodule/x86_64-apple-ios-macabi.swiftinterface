@@ -3,12 +3,13 @@
 // swift-module-flags: -target x86_64-apple-ios13.1-macabi -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name KochavaAdNetwork
 import Foundation
 @_exported import KochavaAdNetwork
+import KochavaCore
 import Swift
 import _Concurrency
 @_inheritsConvenienceInitializers @objc(KVAAdNetworkProduct) final public class KVAAdNetworkProduct : ObjectiveC.NSObject, KochavaCore.KVASharedPropertyProvider {
   @objc public static let shared: KochavaCore.KVAProduct
-  @objc public static var sharedInstance: Swift.AnyObject {
-    @objc get
+  public static var sharedInstance: Swift.AnyObject {
+    get
   }
   @objc override dynamic public init()
   @objc deinit

@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/KochavaAdNetwork-Swift.h</key>
 		<data>
-		ye+ITw4ONr2gSrFqBJ2q/DrQWw0=
+		cItIDEGEvUZhALVkv9qFft1XwiA=
 		</data>
 		<key>Headers/KochavaAdNetwork.h</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		xTLg9EefENp9JnLshKDLQ28MlLg=
+		w4n28Ke+WTTMBhPSLy2FL0/8zms=
 		</data>
 		<key>Modules/KochavaAdNetwork.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/KochavaAdNetwork.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Xs4HXs8Hh6hHwpgxSdRin8no7uw=
+		VL1bjNW3g6NXM2GQBg3xh9l8/JM=
 		</data>
 		<key>Modules/KochavaAdNetwork.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		4c3U5qGblsrlYqjogAC0G2N5aCE=
+		7xDLQwAHfQb1dhNOEaucISedl8I=
 		</data>
 		<key>Modules/KochavaAdNetwork.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/KochavaAdNetwork.swiftmodule/i386-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Lhk612s5qIG5StWAXak3BvfOsfo=
+		2LMm/RWQwDEKszwrunTN1BVRQbE=
 		</data>
 		<key>Modules/KochavaAdNetwork.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		xGhW51CqZvsMS495tvvf3V7CvaU=
+		1eT3MUp7Y+7TBBu6CeHZgqWEUKY=
 		</data>
 		<key>Modules/KochavaAdNetwork.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -46,11 +46,11 @@
 		</data>
 		<key>Modules/KochavaAdNetwork.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		PaaP/VhIXVNiA/CH86te4trCnRM=
+		nBqcZC9E4irFmOdlz/o7ZFqvMWQ=
 		</data>
 		<key>Modules/KochavaAdNetwork.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Ak9G3LKW230ESeh16RNnnRchPcw=
+		IWI4sqtn5jqU1aMTrwjkS5MCEwg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -63,11 +63,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ye+ITw4ONr2gSrFqBJ2q/DrQWw0=
+			cItIDEGEvUZhALVkv9qFft1XwiA=
 			</data>
 			<key>hash2</key>
 			<data>
-			8obwQ7OX1qlttVm/X0MS/KIBK6FiyORa8YMEaq2Cgm4=
+			M6v4B32kVlVoA7EVLhZdBZFbfhMM2qFu1BG9/nWvnMI=
 			</data>
 		</dict>
 		<key>Headers/KochavaAdNetwork.h</key>
@@ -96,22 +96,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Xs4HXs8Hh6hHwpgxSdRin8no7uw=
+			VL1bjNW3g6NXM2GQBg3xh9l8/JM=
 			</data>
 			<key>hash2</key>
 			<data>
-			xHc9ppcOe3HE36R8ID8U3MqSZF+KtEltwLXu0TUapo4=
+			pfcF8rF8VKxk2J+oDwZCMtrDF10TOhlZ+KUcGAtyCck=
 			</data>
 		</dict>
 		<key>Modules/KochavaAdNetwork.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4c3U5qGblsrlYqjogAC0G2N5aCE=
+			7xDLQwAHfQb1dhNOEaucISedl8I=
 			</data>
 			<key>hash2</key>
 			<data>
-			bMDU6+4OyPuoFNz5G5xP9K5K4b3x72GJ/TYm8cSk4Os=
+			fhcylsd4zH/Dg9RI33rP14q1pKFCQW3syH6ktrfY+Mc=
 			</data>
 		</dict>
 		<key>Modules/KochavaAdNetwork.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
@@ -129,22 +129,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Lhk612s5qIG5StWAXak3BvfOsfo=
+			2LMm/RWQwDEKszwrunTN1BVRQbE=
 			</data>
 			<key>hash2</key>
 			<data>
-			VABXXWxys46iw2Ev9Tn48IQlqxRb21OxExODW1+Lidw=
+			yKiy0KAHj1qLyXi/QmhChYJLW31dEysUO6mlnp+op4E=
 			</data>
 		</dict>
 		<key>Modules/KochavaAdNetwork.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xGhW51CqZvsMS495tvvf3V7CvaU=
+			1eT3MUp7Y+7TBBu6CeHZgqWEUKY=
 			</data>
 			<key>hash2</key>
 			<data>
-			DAjq/HqvTGjiA7uDqg/hzCYfwQSd8I9Sjgm/4FOjQVM=
+			JD9BTZVeEREUq2MJgVIfOlKfmaNPXomg7VRurCIGAjY=
 			</data>
 		</dict>
 		<key>Modules/KochavaAdNetwork.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -162,22 +162,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PaaP/VhIXVNiA/CH86te4trCnRM=
+			nBqcZC9E4irFmOdlz/o7ZFqvMWQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZSMmmSt/dU3dBOVNwb10v0C9tcxSM7kxcl/NfxWOTms=
+			DWGEe3/oqEUHbzFJLMf7omMEU9mN6aF4dv4CbxqpIZQ=
 			</data>
 		</dict>
 		<key>Modules/KochavaAdNetwork.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Ak9G3LKW230ESeh16RNnnRchPcw=
+			IWI4sqtn5jqU1aMTrwjkS5MCEwg=
 			</data>
 			<key>hash2</key>
 			<data>
-			/r5qWHjdJbCw9Sf7UJ0WOMOAb59CuL7mtZ18Ej9dTZU=
+			8Tyaw2oZ/R8UEZDTOw50+gHMQmf3q+Rz6/+u+ITtWs0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

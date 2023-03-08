@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		q8wNE89xR0a8CAWI4lLppgGYyII=
+		2YVpX136MN9/NJxmZwBoQouaWSE=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -15,7 +15,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zqqVu+Dcpyueq2Tm4377FIpVhJOn6M/53Y/QeGfawBM=
+			WJ820hzmbljV494DL6Lb031SgMbzCPSYmlkKos7FRtY=
 			</data>
 		</dict>
 		<key>Headers/KochavaAdNetwork.h</key>
@@ -36,14 +36,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Sa3OXTNjGMze4FJ9PA4lTRXjPkfccreM0l6w9HlDtwA=
+			Ui1yV8QeKUVhF0ZZ9n1uzystZzMg+LSTNVnNh7c+oZE=
 			</data>
 		</dict>
 		<key>Modules/KochavaAdNetwork.swiftmodule/arm64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DDnAUP7aGTnWpq1HZ0nHGBL1B6znzw0JWw2bWBRcjiQ=
+			TNvcWI3UDvWV0XAb3lqHKf0X5m6d3g04n7b9Upj1My0=
 			</data>
 		</dict>
 		<key>Modules/KochavaAdNetwork.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
@@ -57,14 +57,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+5C/ZXSUx5Gcmg+dltsmMVNSZ4fRM/N6G8HSczztq8Y=
+			egsUsXx+/GVOHsDYcLsKEw2UhKM7WX7lhgZIVtRPeEk=
 			</data>
 		</dict>
 		<key>Modules/KochavaAdNetwork.swiftmodule/x86_64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3JGYeY63TTuXpLyX2jXvM+US8OQZ69cyLWmFuQPCdoM=
+			HidE+nC0Iz99BE+kn73kM/j94poFekcDX4k64MElXrE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -78,7 +78,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bnjpPkYMTwXPXSGn9IHUNgqKGbfDCH2tQ9Px5X4wdJ8=
+			umCA1QI+nOnj5BOOk1/AfUw5w7gH+X8zISAdyejrrG0=
 			</data>
 		</dict>
 	</dict>
