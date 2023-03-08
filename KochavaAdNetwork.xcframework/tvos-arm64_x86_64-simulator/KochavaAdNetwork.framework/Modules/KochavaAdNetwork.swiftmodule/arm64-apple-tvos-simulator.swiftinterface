@@ -1,0 +1,15 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)
+// swift-module-flags: -target arm64-apple-tvos10.2-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name KochavaAdNetwork
+import Foundation
+@_exported import KochavaAdNetwork
+import Swift
+import _Concurrency
+@_inheritsConvenienceInitializers @objc(KVAAdNetworkProduct) final public class KVAAdNetworkProduct : ObjectiveC.NSObject, KochavaCore.KVASharedPropertyProvider {
+  @objc public static let shared: KochavaCore.KVAProduct
+  @objc public static var sharedInstance: Swift.AnyObject {
+    @objc get
+  }
+  @objc override dynamic public init()
+  @objc deinit
+}

@@ -3,7 +3,7 @@
 //  KochavaAdNetwork
 //
 //  Created by John Bushnell on 8/20/20.
-//  Copyright © 2020 - 2021 Kochava, Inc.  All rights reserved.
+//  Copyright © 2020 - 2022 Kochava, Inc.  All rights reserved.
 //
 
 
@@ -29,14 +29,7 @@
 #import <Foundation/Foundation.h>
 
 #pragma mark KochavaCore
-#import <KochavaCore/KochavaCore.h>
-
-#pragma mark KochavaAdNetwork
-#import <KochavaAdNetwork/KVAAdNetworkProduct.h>
-#import <KochavaAdNetwork/KVAAdNetwork.h>
-#import <KochavaAdNetwork/KVAAdNetworkConversion.h>
-#import <KochavaAdNetwork/KVAAdNetworkConversionResult.h>
-#import <KochavaAdNetwork/KVAAdNetworkProtocol.h>
+@import KochavaCore;
 
 
 

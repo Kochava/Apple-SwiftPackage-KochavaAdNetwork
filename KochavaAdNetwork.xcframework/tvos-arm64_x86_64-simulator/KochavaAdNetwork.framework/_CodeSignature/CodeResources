@@ -4,116 +4,146 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/KVAAdNetwork.h</key>
+		<key>Headers/KochavaAdNetwork-Swift.h</key>
 		<data>
-		TNNyImKGw9QWQ4+AD/EQ+Uoi/+g=
-		</data>
-		<key>Headers/KVAAdNetworkConversion.h</key>
-		<data>
-		Z4oOr4Qddz1AwOUosG1zFl0iwts=
-		</data>
-		<key>Headers/KVAAdNetworkConversionResult.h</key>
-		<data>
-		uEXbfgGpit9rtEpkEc3opxtCaB0=
-		</data>
-		<key>Headers/KVAAdNetworkProduct.h</key>
-		<data>
-		aJR3WP7hNqAsb53SyRdIe+9N/H4=
-		</data>
-		<key>Headers/KVAAdNetworkProtocol.h</key>
-		<data>
-		gDbTfFFnkC+jZ1O7axfNSAotWmk=
+		e+8F//IFQMA7QhY+fXq0HQ4cnS4=
 		</data>
 		<key>Headers/KochavaAdNetwork.h</key>
 		<data>
-		SJxSC0wTNUF1EiW0zBiKTDs3x00=
+		9/p0/K5cHPj77Y4Aw/E7ztv5yVY=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		CNnj62HdR9k+1U0mHOjp7susjvU=
+		DC5fwoPmuUAvFEFRFZUsoj6QfLg=
+		</data>
+		<key>Modules/KochavaAdNetwork.swiftmodule/arm64-apple-tvos-simulator.swiftdoc</key>
+		<data>
+		U6BgwsofVrlLmEZBPwvNmw+iZRY=
+		</data>
+		<key>Modules/KochavaAdNetwork.swiftmodule/arm64-apple-tvos-simulator.swiftinterface</key>
+		<data>
+		8sxXUGXUdnSW1TPrVEVn9pVSbek=
+		</data>
+		<key>Modules/KochavaAdNetwork.swiftmodule/arm64-apple-tvos-simulator.swiftmodule</key>
+		<data>
+		CIHf7s5NrIdnVeZ7/GMgEdYqyjQ=
+		</data>
+		<key>Modules/KochavaAdNetwork.swiftmodule/x86_64-apple-tvos-simulator.swiftdoc</key>
+		<data>
+		crIjd14vCTgAeVt//QLRf3zyRxw=
+		</data>
+		<key>Modules/KochavaAdNetwork.swiftmodule/x86_64-apple-tvos-simulator.swiftinterface</key>
+		<data>
+		GHSHmnjtZBPcGUU+mkVBDmR2GNc=
+		</data>
+		<key>Modules/KochavaAdNetwork.swiftmodule/x86_64-apple-tvos-simulator.swiftmodule</key>
+		<data>
+		MghjnSDW3MC8tJvjrLujJpBmp18=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		5KQNF3MJ9/r4+CtDHMNVnUIzPp0=
+		tq7zQFRrtvUjKns2GsT7kmVXmHc=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/KVAAdNetwork.h</key>
+		<key>Headers/KochavaAdNetwork-Swift.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			TNNyImKGw9QWQ4+AD/EQ+Uoi/+g=
+			e+8F//IFQMA7QhY+fXq0HQ4cnS4=
 			</data>
 			<key>hash2</key>
 			<data>
-			ULmvZ8RgiFyT0W4ypoqHcU/hOgB7hk0L4fT6tb1puxc=
-			</data>
-		</dict>
-		<key>Headers/KVAAdNetworkConversion.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Z4oOr4Qddz1AwOUosG1zFl0iwts=
-			</data>
-			<key>hash2</key>
-			<data>
-			V4zsv4k8iJpz2RTG5v9mUHKzpk2aFTMZ96LBywAP4l0=
-			</data>
-		</dict>
-		<key>Headers/KVAAdNetworkConversionResult.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			uEXbfgGpit9rtEpkEc3opxtCaB0=
-			</data>
-			<key>hash2</key>
-			<data>
-			4BMAVUrw/WpoQWucwYvgTKgPxzLpGBlTqer7a/7VN9U=
-			</data>
-		</dict>
-		<key>Headers/KVAAdNetworkProduct.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			aJR3WP7hNqAsb53SyRdIe+9N/H4=
-			</data>
-			<key>hash2</key>
-			<data>
-			denWaCBU3eylkioXQhlcy2DnGg0wzUdGJJDSNI91q+w=
-			</data>
-		</dict>
-		<key>Headers/KVAAdNetworkProtocol.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			gDbTfFFnkC+jZ1O7axfNSAotWmk=
-			</data>
-			<key>hash2</key>
-			<data>
-			wcuRw9QTlsK41kZujk7gZogzWU0TaOcoQ8g/f++j0gs=
+			zqqVu+Dcpyueq2Tm4377FIpVhJOn6M/53Y/QeGfawBM=
 			</data>
 		</dict>
 		<key>Headers/KochavaAdNetwork.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			SJxSC0wTNUF1EiW0zBiKTDs3x00=
+			9/p0/K5cHPj77Y4Aw/E7ztv5yVY=
 			</data>
 			<key>hash2</key>
 			<data>
-			vH/SSGJXjXCLUNNIrL3+ni+IA2uNDlY4HG18fWIxfzQ=
+			OQBaDilApSlNHm+dpP8WKcRfrnhhhGEel+ke8Y4Xw10=
+			</data>
+		</dict>
+		<key>Modules/KochavaAdNetwork.swiftmodule/arm64-apple-tvos-simulator.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			U6BgwsofVrlLmEZBPwvNmw+iZRY=
+			</data>
+			<key>hash2</key>
+			<data>
+			VXgX3ojirAvh1ABf7Nlqa/vH0U7yHy0rHXo6OasI+g0=
+			</data>
+		</dict>
+		<key>Modules/KochavaAdNetwork.swiftmodule/arm64-apple-tvos-simulator.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8sxXUGXUdnSW1TPrVEVn9pVSbek=
+			</data>
+			<key>hash2</key>
+			<data>
+			hO2aPVBotBx0pTdPYw+xZjesaR8tJC58bXcqWpc+acs=
+			</data>
+		</dict>
+		<key>Modules/KochavaAdNetwork.swiftmodule/arm64-apple-tvos-simulator.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CIHf7s5NrIdnVeZ7/GMgEdYqyjQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			p2limMXQsToQ7z0CVMY03N33LqMUtwp6BI1tzCgqVB4=
+			</data>
+		</dict>
+		<key>Modules/KochavaAdNetwork.swiftmodule/x86_64-apple-tvos-simulator.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			crIjd14vCTgAeVt//QLRf3zyRxw=
+			</data>
+			<key>hash2</key>
+			<data>
+			qEDv6q2HJEdJMuZxFRExapaGsg834s8Eg9e8+/mUUjQ=
+			</data>
+		</dict>
+		<key>Modules/KochavaAdNetwork.swiftmodule/x86_64-apple-tvos-simulator.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			GHSHmnjtZBPcGUU+mkVBDmR2GNc=
+			</data>
+			<key>hash2</key>
+			<data>
+			38KRxA5OpD/scJhINwCio7K9sesriCKdFx290UfUOls=
+			</data>
+		</dict>
+		<key>Modules/KochavaAdNetwork.swiftmodule/x86_64-apple-tvos-simulator.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MghjnSDW3MC8tJvjrLujJpBmp18=
+			</data>
+			<key>hash2</key>
+			<data>
+			/3UlTHvQs5POhKffXT8CZ8DKH+h4TfU84bP6gUSsSuo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5KQNF3MJ9/r4+CtDHMNVnUIzPp0=
+			tq7zQFRrtvUjKns2GsT7kmVXmHc=
 			</data>
 			<key>hash2</key>
 			<data>
-			2mrECLWmBtVrZYiurkT2E/j6M8bpfH2+CPoLoE3F5fk=
+			mFEZ1KZXd0IcXPEdjU75QzLdTA5xWT8p3bO2e94wvxM=
 			</data>
 		</dict>
 	</dict>

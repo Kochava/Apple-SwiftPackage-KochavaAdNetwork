@@ -4,3 +4,8 @@ framework module KochavaAdNetwork {
   export *
   module * { export * }
 }
+
+module KochavaAdNetwork.Swift {
+    header "KochavaAdNetwork-Swift.h"
+    requires objc
+}

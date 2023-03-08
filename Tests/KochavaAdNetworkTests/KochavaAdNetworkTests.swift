@@ -5,7 +5,7 @@ import XCTest
 
 
 
-@testable import KochavaAdNetwork
+import KochavaAdNetwork
 
 
 
