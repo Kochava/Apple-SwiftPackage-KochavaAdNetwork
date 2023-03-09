@@ -1,0 +1,251 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "KochavaCore",
+        "printedName": "KochavaCore",
+        "declKind": "Import",
+        "moduleName": "KochavaAdNetwork",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "KVAAdNetworkProduct",
+        "printedName": "KVAAdNetworkProduct",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "shared",
+            "printedName": "shared",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "KVAProduct",
+                "printedName": "KochavaCore.KVAProduct",
+                "usr": "c:@M@KochavaCore@objc(cs)KVAProduct"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@KochavaAdNetwork@objc(cs)KVAAdNetworkProduct(cpy)shared",
+            "mangledName": "$s16KochavaAdNetwork05KVAAdC7ProductC6shared0A4Core10KVAProductCvpZ",
+            "moduleName": "KochavaAdNetwork",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "KVAProduct",
+                    "printedName": "KochavaCore.KVAProduct",
+                    "usr": "c:@M@KochavaCore@objc(cs)KVAProduct"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@KochavaAdNetwork@objc(cs)KVAAdNetworkProduct(cm)shared",
+                "mangledName": "$s16KochavaAdNetwork05KVAAdC7ProductC6shared0A4Core10KVAProductCvgZ",
+                "moduleName": "KochavaAdNetwork",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "sharedInstance",
+            "printedName": "sharedInstance",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ProtocolComposition",
+                "printedName": "AnyObject"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:16KochavaAdNetwork05KVAAdC7ProductC14sharedInstanceyXlvpZ",
+            "mangledName": "$s16KochavaAdNetwork05KVAAdC7ProductC14sharedInstanceyXlvpZ",
+            "moduleName": "KochavaAdNetwork",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ProtocolComposition",
+                    "printedName": "AnyObject"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:16KochavaAdNetwork05KVAAdC7ProductC14sharedInstanceyXlvgZ",
+                "mangledName": "$s16KochavaAdNetwork05KVAAdC7ProductC14sharedInstanceyXlvgZ",
+                "moduleName": "KochavaAdNetwork",
+                "static": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "KVAAdNetworkProduct",
+                "printedName": "KochavaAdNetwork.KVAAdNetworkProduct",
+                "usr": "c:@M@KochavaAdNetwork@objc(cs)KVAAdNetworkProduct"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@KochavaAdNetwork@objc(cs)KVAAdNetworkProduct(im)init",
+            "mangledName": "$s16KochavaAdNetwork05KVAAdC7ProductCACycfc",
+            "moduleName": "KochavaAdNetwork",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@KochavaAdNetwork@objc(cs)KVAAdNetworkProduct",
+        "mangledName": "$s16KochavaAdNetwork05KVAAdC7ProductC",
+        "moduleName": "KochavaAdNetwork",
+        "objc_name": "KVAAdNetworkProduct",
+        "declAttributes": [
+          "Final",
+          "AccessControl",
+          "ObjC",
+          "RawDocComment"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "KVASharedPropertyProvider",
+            "printedName": "KVASharedPropertyProvider",
+            "usr": "s:11KochavaCore25KVASharedPropertyProviderP",
+            "mangledName": "$s11KochavaCore25KVASharedPropertyProviderP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "KochavaAdNetwork",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaAdNetwork\/KochavaAdNetwork\/ClassFiles\/KVAAdNetworkProduct.swift",
+      "kind": "StringLiteral",
+      "offset": 2156,
+      "length": 11,
+      "value": "\"AdNetwork\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaAdNetwork\/KochavaAdNetwork\/ClassFiles\/KVAAdNetworkProduct.swift",
+      "kind": "StringLiteral",
+      "offset": 2774,
+      "length": 655,
+      "value": "\"AdNetwork - Deprecation Advisory - The contents of optional module KochavaAdNetwork were merged into primary module KochavaTracker in v6.0.0.  Module KochavaAdNetwork is now no longer needed, as its symbols are now always available from within module KochavaTracker.  This message is appearing because module KochavaAdNetwork was found and registered, however there will be no other adverse effects.  Module KochavaAdNetwork should be now removed from your build processes- including any Swift Package references, Cocoapods references, target inclusions, imports, registration calls, etc.  Once it has been removed this message will go away.  Thank you!\""
+    }
+  ]
+}

@@ -6,6 +6,6 @@ framework module KochavaAdNetwork {
 }
 
 module KochavaAdNetwork.Swift {
-    header "KochavaAdNetwork-Swift.h"
-    requires objc
+  header "KochavaAdNetwork-Swift.h"
+  requires objc
 }
